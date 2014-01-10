@@ -22,3 +22,5 @@ For further information, consult the [Java App Engine](https://developers.google
 To see all the available goals for the App Engine plugin, run
 
     mvn help:describe -Dplugin=appengine
+
+You can use the ReviewedClient [python][http://www.python.org/download/releases/2.7/] script to POST/PUT commands to the API
