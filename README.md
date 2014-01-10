@@ -1,7 +1,7 @@
-App Engine Java Application
-Copyright (C) 2010-2012 Google Inc.
+Reviewed REST API
+Copyright (C) 2013-2014 Naz911@home.
 
-## Skeleton application for use with App Engine Java.
+## Reviewed REST API Build on GoogleAppEngine (GAE)
 
 Requires [Apache Maven](http://maven.apache.org) 3.0 or greater, and JDK 6+ in order to run.
 
